@@ -1428,6 +1428,7 @@ only screen and (                min-resolution: 2dppx) {
 .hero-our-services__textbox {
     width: 447px;
     margin-bottom: 139px;
+    margin-left: 112px;
 }
 
 .hero-our-services__text {
